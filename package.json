@@ -1,5 +1,5 @@
 {
-  "name": "test-ui-components",
+  "name": "test-ui-components-deploy",
   "version": "0.0.0-beta",
   "type": "module",
   "main": "dist/index.js",
